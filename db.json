@@ -1,0 +1,219 @@
+[
+    {
+        "id": 0,
+        "name": "Sun",
+        "sign": "Scorpio",
+        "degree": 223.99066503242628,
+        "deg": 13.990665032426278,
+        "min": 59.43990194557671,
+        "position": {
+            "absolute_degrees": 223.99066503242628,
+            "sign": "Scorpio",
+            "deg": 13.990665032426278,
+            "min": 59.43990194557671,
+            "sec": 26.39411673460245,
+            "rel_tuple": [
+                "Scorpio",
+                13,
+                59,
+                26
+            ]
+        },
+        "dignity": null
+    },
+    {
+        "id": 1,
+        "name": "Moon",
+        "sign": "Pisces",
+        "degree": 331.16537086439604,
+        "deg": 1.1653708643960385,
+        "min": 9.922251863762312,
+        "position": {
+            "absolute_degrees": 331.16537086439604,
+            "sign": "Pisces",
+            "deg": 1.1653708643960385,
+            "min": 9.922251863762312,
+            "sec": 55.33511182573875,
+            "rel_tuple": [
+                "Pisces",
+                1,
+                9,
+                55
+            ]
+        },
+        "dignity": null
+    },
+    {
+        "id": 2,
+        "name": "Mercury",
+        "sign": "Libra",
+        "degree": 205.86025556905815,
+        "deg": 25.860255569058154,
+        "min": 51.615334143489235,
+        "position": {
+            "absolute_degrees": 205.86025556905815,
+            "sign": "Libra",
+            "deg": 25.860255569058154,
+            "min": 51.615334143489235,
+            "sec": 36.920048609354126,
+            "rel_tuple": [
+                "Libra",
+                25,
+                51,
+                36
+            ]
+        },
+        "dignity": null
+    },
+    {
+        "id": 3,
+        "name": "Venus",
+        "sign": "Capricorn",
+        "degree": 271.0063585996412,
+        "deg": 1.006358599641203,
+        "min": 0.38151597847218,
+        "position": {
+            "absolute_degrees": 271.0063585996412,
+            "sign": "Capricorn",
+            "deg": 1.006358599641203,
+            "min": 0.38151597847218,
+            "sec": 22.8909587083308,
+            "rel_tuple": [
+                "Capricorn",
+                1,
+                0,
+                22
+            ]
+        },
+        "dignity": null
+    },
+    {
+        "id": 4,
+        "name": "Mars",
+        "sign": "Virgo",
+        "degree": 159.41697938880412,
+        "deg": 9.416979388804123,
+        "min": 25.01876332824736,
+        "position": {
+            "absolute_degrees": 159.41697938880412,
+            "sign": "Virgo",
+            "deg": 9.416979388804123,
+            "min": 25.01876332824736,
+            "sec": 1.1257996948415894,
+            "rel_tuple": [
+                "Virgo",
+                9,
+                25,
+                1
+            ]
+        },
+        "dignity": null
+    },
+    {
+        "id": 5,
+        "name": "Jupiter",
+        "sign": "Libra",
+        "degree": 205.7741746750228,
+        "deg": 25.774174675022806,
+        "min": 46.45048050136836,
+        "position": {
+            "absolute_degrees": 205.7741746750228,
+            "sign": "Libra",
+            "deg": 25.774174675022806,
+            "min": 46.45048050136836,
+            "sec": 27.02883008210165,
+            "rel_tuple": [
+                "Libra",
+                25,
+                46,
+                27
+            ]
+        },
+        "dignity": null
+    },
+    {
+        "id": 6,
+        "name": "Saturn",
+        "sign": "Libra",
+        "degree": 196.5872872949374,
+        "deg": 16.587287294937397,
+        "min": 35.237237696243824,
+        "position": {
+            "absolute_degrees": 196.5872872949374,
+            "sign": "Libra",
+            "deg": 16.587287294937397,
+            "min": 35.237237696243824,
+            "sec": 14.23426177462943,
+            "rel_tuple": [
+                "Libra",
+                16,
+                35,
+                14
+            ]
+        },
+        "dignity": "exaltation"
+    },
+    {
+        "id": 7,
+        "name": "Uranus",
+        "sign": "Scorpio",
+        "degree": 239.38952015323872,
+        "deg": 29.38952015323872,
+        "min": 23.371209194323228,
+        "position": {
+            "absolute_degrees": 239.38952015323872,
+            "sign": "Scorpio",
+            "deg": 29.38952015323872,
+            "min": 23.371209194323228,
+            "sec": 22.272551659393685,
+            "rel_tuple": [
+                "Scorpio",
+                29,
+                23,
+                22
+            ]
+        }
+    },
+    {
+        "id": 8,
+        "name": "Neptune",
+        "sign": "Sagittarius",
+        "degree": 263.1495372867658,
+        "deg": 23.149537286765792,
+        "min": 8.972237205947522,
+        "position": {
+            "absolute_degrees": 263.1495372867658,
+            "sign": "Sagittarius",
+            "deg": 23.149537286765792,
+            "min": 8.972237205947522,
+            "sec": 58.33423235685132,
+            "rel_tuple": [
+                "Sagittarius",
+                23,
+                8,
+                58
+            ]
+        }
+    },
+    {
+        "id": 9,
+        "name": "Pluto",
+        "sign": "Libra",
+        "degree": 205.05229390832935,
+        "deg": 25.052293908329347,
+        "min": 3.137634499760793,
+        "position": {
+            "absolute_degrees": 205.05229390832935,
+            "sign": "Libra",
+            "deg": 25.052293908329347,
+            "min": 3.137634499760793,
+            "sec": 8.25806998564758,
+            "rel_tuple": [
+                "Libra",
+                25,
+                3,
+                8
+            ]
+        }
+    }
+]
